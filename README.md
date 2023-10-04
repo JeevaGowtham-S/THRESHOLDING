@@ -126,6 +126,7 @@ for i in range(0,9):
 <br>
 
 ### Global Thresholding:
+![Screenshot 2023-10-04 084158](https://github.com/JeevaGowtham-S/THRESHOLDING/assets/118042624/18d22c1b-10cb-4294-a94d-13fce6a636ba)
 
 
 ![Screenshot 2023-10-04 084208](https://github.com/JeevaGowtham-S/THRESHOLDING/assets/118042624/fd7c1036-bcbf-4277-a77e-3af55c628118)
@@ -135,7 +136,7 @@ for i in range(0,9):
 
 
 ![Screenshot 2023-10-04 084224](https://github.com/JeevaGowtham-S/THRESHOLDING/assets/118042624/1a80d5dd-7406-4931-81a6-bbb173b60afa)
-![Screenshot 2023-10-04 084224](https://github.com/JeevaGowtham-S/THRESHOLDING/assets/118042624/f3e9d770-5ca9-4864-b45b-48f40e8bb8c1)
+
 
 ![Screenshot 2023-10-04 084230](https://github.com/JeevaGowtham-S/THRESHOLDING/assets/118042624/03681bb0-fa1a-4458-859f-bcc8c7de7d3d)
 
